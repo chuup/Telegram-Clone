@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "http://localhost:4000",
+  "proxy": "https://jubilant-space-parakeet-xgr9prj5rp9fvg4q-3000.app.github.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
